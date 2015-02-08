@@ -1,0 +1,175 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MagmaStone",
+    "longName": "BigFonts-Date",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/9.png.date.png",
+                "name": "IMAGE_DATE_9",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png.date.png",
+                "name": "IMAGE_DATE_8",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png.date.png",
+                "name": "IMAGE_DATE_7",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png.date.png",
+                "name": "IMAGE_DATE_6",
+                "type": "png"
+            },
+            {
+                "file": "images/5.png.date.png",
+                "name": "IMAGE_DATE_5",
+                "type": "png"
+            },
+            {
+                "file": "images/4.png.date.png",
+                "name": "IMAGE_DATE_4",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png.date.png",
+                "name": "IMAGE_DATE_3",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png.date.png",
+                "name": "IMAGE_DATE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png.date.png",
+                "name": "IMAGE_DATE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/0.png.date.png",
+                "name": "IMAGE_DATE_0",
+                "type": "png"
+            },
+            {
+                "file": "images/A.png.date.png",
+                "name": "IMAGE_DATE_A",
+                "type": "png"
+            },
+            {
+                "file": "images/dot.png.date.png",
+                "name": "IMAGE_DATE_DOT",
+                "type": "png"
+            },
+            {
+                "file": "images/E.png.date.png",
+                "name": "IMAGE_DATE_E",
+                "type": "png"
+            },
+            {
+                "file": "images/F.png.date.png",
+                "name": "IMAGE_DATE_F",
+                "type": "png"
+            },
+            {
+                "file": "images/H.png.date.png",
+                "name": "IMAGE_DATE_H",
+                "type": "png"
+            },
+            {
+                "file": "images/M.png.date.png",
+                "name": "IMAGE_DATE_M",
+                "type": "png"
+            },
+            {
+                "file": "images/R.png.date.png",
+                "name": "IMAGE_DATE_R",
+                "type": "png"
+            },
+            {
+                "file": "images/S.png.date.png",
+                "name": "IMAGE_DATE_S",
+                "type": "png"
+            },
+            {
+                "file": "images/T.png.date.png",
+                "name": "IMAGE_DATE_T",
+                "type": "png"
+            },
+            {
+                "file": "images/U.png.date.png",
+                "name": "IMAGE_DATE_U",
+                "type": "png"
+            },
+            {
+                "file": "images/W.png.date.png",
+                "name": "IMAGE_DATE_W",
+                "type": "png"
+            },
+            {
+                "file": "images/9.png.png.png",
+                "name": "TIME_NUMBER_9",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png.png.png",
+                "name": "TIME_NUMBER_8",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png.png.png",
+                "name": "TIME_NUMBER_7",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png.png.png",
+                "name": "TIME_NUMBER_6",
+                "type": "png"
+            },
+            {
+                "file": "images/5.png.png.png",
+                "name": "TIME_NUMBER_5",
+                "type": "png"
+            },
+            {
+                "file": "images/4.png.png.png",
+                "name": "TIME_NUMBER_4",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png.png.png",
+                "name": "TIME_NUMBER_3",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png.png.png",
+                "name": "TIME_NUMBER_2",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png.png.png",
+                "name": "TIME_NUMBER_1",
+                "type": "png"
+            },
+            {
+                "file": "images/0.png.png.png",
+                "name": "TIME_NUMBER_0",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "BigFonts-Date",
+    "uuid": "7905c366-c20e-41fd-b98d-f9bdc8a58ca6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
